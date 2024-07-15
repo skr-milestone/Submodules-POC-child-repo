@@ -1,5 +1,5 @@
 ﻿
-namespace Constants
+namespace Submodule.Poc
 {
     public class Constants
     {
